@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm Fabio  
 
 <div align="center">
-  <a href="https://github.com/fabiobignoto">
+  <a href="https://github.com/fabiopalacio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiobignoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobignoto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## :dart: Developer :
   
 - :mortar_board: Biological Scientist;
-- :cake: 30 years old;
+- :cake: 31 years old;
 
  
 
@@ -29,6 +29,6 @@
 <div> 
 
   <a href = "mailto:fabiopalacio14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabio-bignoto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/fabio-palacio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://wa.me/5532984665875"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div> 
