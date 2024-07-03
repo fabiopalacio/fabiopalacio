@@ -14,7 +14,7 @@
 
 ## :wrench: Languages and Techs :
 
-<div style="display: grid; grid-template-columns: auto auto auto auto auto;">
+<div>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   
