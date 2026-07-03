@@ -1,15 +1,9 @@
 <h1 align='center'>Hi, I'm Fabio Palacio</h1>
 
 
-<div align="center">
-  <a href="https://github.com/fabiopalacio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiopalacio&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopalacio&layout=compact&langs_count=7&theme=nightowl"/>
-</div>
-
-
 ## About me
 
-My name is Fabio, and I'm 31 years old.  I hold a Master's degree in Biodiversity and Nature Conservation from  [UFJF](https://www2.ufjf.br/ufjf/) and am currently transitioning my career to the development field. To achieve this,  I am studying __Full Stack Python Development__ at [EBAC](https://ebaconline.com.br/).
+My name is Fabio, and I'm 33 years old.  I hold a Master's degree in Biodiversity and Nature Conservation from  [UFJF](https://www2.ufjf.br/ufjf/) and am currently transitioning my career to the development field. To achieve this,  I am studying __Full Stack Python Development__ at [EBAC](https://ebaconline.com.br/).
 
 I became interested in Python during my undergraduate studies, when I started using it to automate repetitive tasks, such as combining spreadsheets and producing reports, and analyzing data.
 
@@ -48,9 +42,9 @@ Feel free to contact me.
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-2265b9?style=for-the-badge&logo=R&logoColor=c7c9cc)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
-![R](https://img.shields.io/badge/R-2265b9?style=for-the-badge&logo=R&logoColor=c7c9cc)
 ![PHP](https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php&logoColor=c7c9cc)
 
 ### Tools
@@ -63,6 +57,10 @@ Feel free to contact me.
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=codeforces&logoColor=black)
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 
